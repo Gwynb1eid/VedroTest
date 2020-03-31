@@ -1,2 +1,2 @@
 # VedroTest
-Testing vedroid
+Testing Vedroids
